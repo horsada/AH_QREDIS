@@ -1,0 +1,21 @@
+Canada: http://www.tmx.com/en/about_tsx/market_hours.html
+London: http://www.londonstockexchange.com/about-the-exchange/company-overview/business-days/business-days.htm
+Euronext: http://www.investmentu.com/euronext-paris-holiday-schedule.html
+Germany: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&timeOffset=0&exchange=FRA
+Austria: http://en.indices.cc/static/cms/sites/indices/media/de/pdf/calculation/2014/at_holiday_2014.pdf
+Tokyo: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&timeOffset=0&exchange=TYO
+Hong Kong: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&exchange=HKG
+Shanghai: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&exchange=SHH
+Taiwan: http://www.twse.com.tw/en/trading/trading_days.php
+India: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&exchange=NSI
+Australia: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&exchange=ASX
+Indonesia: http://www.idx.co.id/en-us/home/newsannouncement/tradingholiday.aspx
+Korea: http://eng.krx.co.kr/m8/m8_6/m8_6_1/JHPENG08006_01.jsp?mm=01&yy=2014
+Switzerland: http://www.six-swiss-exchange.com/funds/trading_calendar/calendar/2014/grid_en.pdf
+Brazil: http://www.bmfbovespa.com.br/en-us/rules/market-calendar/market-calendar.aspx?idioma=en-us&tipoNoticia=1
+Mexico: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&exchange=MEX
+New Zealand: https://www.nzx.com/markets/nzsx/trading_hours
+Singapore: http://www.sgx.com/wps/portal/sgxweb/home/trading/securities/trading_hours_calendar
+Spain: http://www.bolsamadrid.es/ing/aspx/Inversores/Agenda/Calendario.aspx
+Turkey: http://borsaistanbul.com/en/products-and-markets/official-holidays
+US: http://markets.on.nytimes.com/research/markets/holidays/holidays.asp?display=market&timeOffset=1&exchange=NYQ
