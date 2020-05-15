@@ -1,6 +1,6 @@
 # QREDIS
 ## History
-Between 1999 and 2003, while working at Golden Gate Financial Group, I was responsible for researching and developing market timing trading models. I did this work in collaboration with Mr. Tom Write, president of Applied Market Analytics. Tom had personally developed a very Modeling Heuristic Platform for researching and testing trading models, based on the *APL* programming language. It was called the **QCL** - *Q*uant *C*ommand  *L*anguage.
+Between 1999 and 2003, while working at Golden Gate Financial Group, I was responsible for researching and developing market timing trading models. I did this work in collaboration with Mr. Tom Write, president of Applied Market Analytics. Tom had personally developed a very cool modeling heuristic platform for researching and testing trading models, based on the *APL* programming language. It was called the **QCL** - *Q*uant *C*ommand *L*anguage.
 
 While at Golden Gate, I developed many trading models in the QCL, and extended it's functionality in several areas, including:
 
