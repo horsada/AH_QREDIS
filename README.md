@@ -1,6 +1,6 @@
 # QREDIS
 ## History
-Between 1999 and 2003, while working at Golden Gate Financial Group, I was responsible for researching and developing market timing trading models. I did this work in collaboration with Mr. Tom Write, president of Applied Market Analytics. Tom had personally developed a very cool modeling heuristic platform for researching and testing trading models, based on the *APL* programming language. It was called the **QCL** - *Q*uant *C*ommand *L*anguage.
+Between 1999 and 2003, while working at Golden Gate Financial Group, I was responsible for researching and developing market timing trading models. I did this work in collaboration with Mr. Tom Write, president of Applied Market Analytics. Tom had personally developed a very cool modeling heuristic platform for researching and testing trading models, based on the *APL* programming language. It was called the **QCL** - **Q**uant **C**ommand **L**anguage.
 
 While at Golden Gate, I developed many trading models in the QCL, and extended it's functionality in several areas, including:
 
@@ -10,24 +10,20 @@ While at Golden Gate, I developed many trading models in the QCL, and extended i
 
 For years after working there, I wanted to build my own similar system. This is it.
 
-**QREDIS** (pronounced *kredis*) is a modeling heuristic platform + database which I built in python with a MySQL backend between 2012 and 2014. It includes the following capabilities:
+**QREDIS** (pronounced *kredis*) is a modeling hplatform & database which I developed in python with a MySQL backend between 2012 and 2014. It includes the following capabilities:
 
-- calendar and data management
-- rapid development
-- mathematical / statistical tools and adaptive walk-forward modeling
+- adaptive walk-forward modeling
 - back-testing
+- calendar and data management
 - easy extensibility with new methods
+- mathematical / statistical tools
+- model and signals version control
 - model / target charting and reporting
+- rapid development
 - real-time signal generation
 - stress and scenario testing
-- model and signals version control
 
-The name is an acronym for: *Q*uantitative
-*RE*search
-and
-*D*evelopment
-*I*nformation
-*S*ystem
+The name is an acronym for: **Q**uantitative **RE**search and **D**evelopment **I**nformation **S**ystem
 
 ## Organization
 QREDIS is extensible in that the code is arranged in a modular architecture. As well as adding functions to the existing modules, new ones can be easily integrated. Current modules in the *src* directory are:
