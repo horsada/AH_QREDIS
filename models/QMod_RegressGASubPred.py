@@ -144,7 +144,7 @@ class QMod_RegressGASubPred(QMod_Template):
 		d, h, target = QD.GetTickerPrices_L(self.target_index, train_dates)
 		# if missing data, fill holes (hopefully none)
 		target,filld = QB.FillHoles(target)
-		# maybe there are holes on the first day wich will cause an annoying (but unimportant) error
+		# maybe there are holes on the first day which will cause an annoying (but unimportant) error
 		# in the divsion, so fill in nans, I guess
 		target[0,target[0,:] == 0] = np.nan
 		# now get the daily returns and keep only non-buffer days

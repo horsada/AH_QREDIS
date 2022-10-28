@@ -11,7 +11,7 @@ crit = False 					# critical module not loaded
 
 # base python
 try:
-	from imp import reload		# get the reload function
+	from importlib import reload		# get the reload function
 except:
 	print("\tCan't load function: reload!")
 try:
@@ -72,6 +72,8 @@ try:
 except:
 	print("\tCan't load module: matplotlib!")
 	crit = True
+
+print("\tSuccessfully loaded python modules")
 	
 print("...loading QREDIS modules...")
 
@@ -79,6 +81,7 @@ print("...loading QREDIS modules...")
 os.chdir(os.getcwd()+'/QREDIS')
 
 # QREDIS packages
+import QREDIS_Basic as QB
 try:
 	import QREDIS_Basic as QB
 except:
@@ -102,6 +105,8 @@ try:
 except:
 	print("\tCan't load module: QREDIS_Model!")
 	crit = True
+
+print("\tSuccessfully loaded QREDIS modules")
 	
 # set up some directories JAH 20140118 put in __builtins__ to make it global'ish
 # I don't really like this so much, but is seems the only (or best) way to do this
